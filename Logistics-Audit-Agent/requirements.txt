@@ -1,0 +1,8 @@
+langchain
+langgraph
+pandas
+fpdf
+python-dotenv
+faiss-cpu
+langchain-community
+numpy
