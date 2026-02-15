@@ -1,0 +1,13 @@
+# Ignore the Python virtual environment
+.venv/
+__pycache__/
+*.pyc
+
+# Ignore private data (don't upload your father's real logs!)
+data/
+
+# Ignore the generated PDF reports
+*.pdf
+
+# System files
+.DS_Store
